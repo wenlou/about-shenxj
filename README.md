@@ -46,8 +46,8 @@
  一个看妹子的软件。整合了gank.io中的妹子以及干货还有豆瓣的阅读api同样利用了RxJava+RxAndroid+Retrofit+Gson
  - [huoche](https://github.com/wenlou/huoche) https://github.com/wenlou/huoche
  
- 用python写的火车票自动抢票软件。https://github.com/wenlou/book
- - [book](https://github.com/wenlou/book) 
+ 用python写的火车票自动抢票软件。
+ - [book](https://github.com/wenlou/book) https://github.com/wenlou/book
   
  这是一个简单的图书管理系统，基于python 3.5.2 以及django9.
 # 技能清单
