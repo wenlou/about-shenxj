@@ -12,7 +12,7 @@
 
  - 沈晓健/男/1994
  - 本科/山东建筑大学大学网络工程
- - 工作年限：半年
+ - 工作年限：1年
  - GitHub: https://github.com/wenlou
  - 期望职位：java开发 Android开发 前端开发
 
@@ -33,17 +33,26 @@
 * 米丽微信公众号是一款集购物,贷款宝等功能为一体的微信webapp
 * 负责整个前端ui界面开发。
 * 通过接口和后台数据对接
-* 采用reat以及es6等较新技术
+* 采用React以及es6等较新技术
 
 2.米丽公众号后端开发
-* 公众号后台api接口，以及控制台。采用falsk，数据库采用mysql，用redis做缓存
+* 公众号后台api接口，以及控制台。采用Flask，数据库采用mysql，用redis做缓存
 * 负责前端接口开发
 * 控制台界面设计
 * 后台数据库设计
 
-### 北京思特奇公司 前端开发&后端开发 — 2018.6月-至今
-负责山东省号线运维系统app前端界面的开发以及后端接口的编写
-前端采用Fis+Mui，后端采用SpringMVc
+## 北京思特奇技术有限公司 （ 2018年7月 ~ 至今 ）
+
+### 山东号线资源系统app
+
+采用mui架构生成app，负责部分前端界面的编写与后台接口的编写，前端主要用到fis打包以及传统的jQuery，后端采用springboot作为中间通讯，采用dubbo+zookeeper平台管理
+
+### 山东联通网络资源系统
+
+负责部分页面的开发和维护。采用传统的javaweb技术
+
+### 山东联通号线业务分析系统
+编写报表，主要从数据库里查询以及写存储过程展示这些内容
 
 ---
 
@@ -78,7 +87,10 @@
 
  - [看看天气](https://github.com/wenlou/SeeWh) 
 
+   [下载地址](https://shouji.baidu.com/software/10527000.html)
+
  一款遵循Material Design风格的只看天气的APP利用了RxJava+RxAndroid+Retrofit+Gson再加上ACache缓存
+
  - [meizigirl](https://github.com/wenlou/Meizhigilr) 
 
  一个看妹子的软件。整合了gank.io中的妹子以及干货还有豆瓣的阅读api同样利用了RxJava+RxAndroid+Retrofit+Gson
@@ -96,7 +108,7 @@
 - java基础
 - Liunx基础
 - Python爬虫以及Django和flask框架
-- 数据库相关：MySQL Redis
+- 数据库相关：MySQL Redis oracle
 - android基础开发
 - 了解Spring SpringMVc  Mybatis 开发及应用 
 - 前端技能：css和jQuery，会ES6和React，了解Vue
