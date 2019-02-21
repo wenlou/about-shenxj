@@ -18,14 +18,20 @@
 
 ---
 
-# 工作期望&个人评价
-* 我对自己的定位: 主攻后端和客户端,同时在其他方面打打辅助。我不希望过于依赖别人,即使没有前端界面没有设计没有产品经理,我依然想要把这个产品做到完美。毕竟全栈才能最高效地解决问题。
-* 我对工作的态度: 第一,要高效完成自己的本职工作。第二,要在完成的基础上寻找完美。第三,要在完美的基础上,与其他同事 互相交流学习,互相提升。工作是一种生活方式,不是一份养家糊口的差事。 
-* 我怎样克服困难: 不用百度是第一原则,在遇到技术问题时我往往会去Google、Stack over flow上寻找答案。但通常很多问题 并不一定已经被人解决,所以熟练地阅读源码、在手册、规范甚至 REPL的环境自己做实验才是最终解决问题的办法。相信事实的结果,自己动手去做。
-* 我的优势: 热爱技术、自学能力强,有良好的自我认知。
-* 我的劣势: 对算法的掌握不够熟练,但我决定死磕技术,弥补不足。
+# 技能清单
 
----
+以下均为我熟练使用的技能
+
+- 熟练使用 Java，熟悉 C 语言，熟悉常用的数据结构和算法
+- 熟悉python，了解python web常用的框架如flask等
+- 了解 Java 并发编程和 Java 虚拟机的知识。
+- 熟悉 Java EE 基础 Servlet API，后端开发常用框架，包括 Spring，SpringMVC，Spring Boot，MyBatis等。
+- 熟悉 Http 协议，MySQL，oracle数据库，了解非关系型数据库，主要集中在 Redis，了解数据库存储过程的。
+- 了解常用的 Java 设计模式，如单例模式、工厂模式、代理模式等。
+- 熟练使用 Git 进行团队合作，有 Linux 操作系统使用经验。
+- 了解基础的 Web 前端技术，Html、CSS、JavaScript 等。
+- 了解前端热门框架 vue 和react
+- 良好的英语读写能力（CET4）
 
 # 工作经历
 ### 海南斐丽公司山东分公司  前端开发&后端开发 — 2017.7月-2018.2月
@@ -44,7 +50,7 @@
 
 ## 山西电信CRM云化3.0版本开发（2018.12月-2019.3月）
 
-项目描述：此项目为山西电信大版本升级项目，需要从原来的系统迁移到现有系统，主要开发为固网部分，采用SSH框架
+项目描述：此项目为山西电信大版本升级项目，需要从原来的系统迁移到现有系统，主要开发为固网部分，采用SSH框架。
 
 责任描述：
 
@@ -54,7 +60,7 @@
 
 ## 山东号线资源系统app（2018.8月-2018.10月）
 
-项目描述：主要用于宽带装机人员的枪单，派单，采用mui架构生成app，前端主要用到fis打包以及传统的jQuery，后端采用springboot作为中间通讯，采用dubbo+zookeeper平台管理，进入公司时该项目已经到收尾阶段所以
+项目描述：主要用于宽带装机人员的枪单，派单，采用mui架构生成app，前端主要用到fis打包以及传统的jQuery，后端采用springboot作为中间通讯，采用dubbo+zookeeper平台管理。
 
 责任描述：
 
@@ -107,43 +113,24 @@
     5. 内置两套图标（设置里更改）
     6. 彩蛋（自动夜间状态）
 
-    项目地址：(https://github.com/wenlou/SeeWh
+    项目地址：https://github.com/wenlou/SeeWh
 
 - [仿天猫购物网站](https://github.com/wenlou/tmall_spring) 
 
     一个模仿天猫购物网站， 采用前后端分离，拥有前端采用vue.js+axios，后端主要采用     springboot+shrio+jap+Redis+mysql+maven
 
 
-​        项目地址：(https://github.com/wenlou/tmall_spring)
+​        项目地址：https://github.com/wenlou/tmall_spring
 
 - [meizigirl](https://github.com/wenlou/Meizhigilr) 
 
    一个看妹子的软件。整合了gank.io中的妹子以及干货还有豆瓣的阅读api同样利用了RxJava+RxAndroid+Retrofit+Gson
 
-   项目地址：(https://github.com/wenlou/Meizhigilr)
+   项目地址：https://github.com/wenlou/Meizhigilr
 
  - [huoche](https://github.com/wenlou/huoche) 
 
  	  用python写的火车票自动抢票软件。(已经失效)
- - [book](https://github.com/wenlou/book) 
-
- 	 这是一个简单的图书管理系统，基于python 3.5.2 以及django9.
-# 技能清单
-
-以下均为我熟练使用的技能
-
-- 熟练使用 Java，熟悉 C 语言，熟悉常用的数据结构和算法
-- 熟悉python，了解python web常用的框架如flask等
-- 了解 Java 并发编程和 Java 虚拟机的知识。
-- 熟悉 Java EE 基础 Servlet API，后端开发常用框架，包括 Spring，SpringMVC，Spring Boot，MyBatis等。
-- 熟悉 Http 协议，MySQL，oracle数据库，了解非关系型数据库，主要集中在 Redis，了解数据库存储过程的。
-- 了解常用的 Java 设计模式，如单例模式、工厂模式、代理模式等。
-- 熟练使用 Git 进行团队合作，有 Linux 操作系统使用经验。
-- 了解基础的 Web 前端技术，Html、CSS、JavaScript 等。
-- 了解前端热门框架 vue 和react
-- 良好的英语读写能力（CET4）
-
----
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
